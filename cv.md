@@ -1,0 +1,9 @@
+# Kalinin Dmitriy #
+
+E-mail adress: Kalininfree@gmail.com
+
+I want to discover a new profession of a web developer and start learning the javascript programming language. 
+I'm new to this field, and only managed to learn the basics of html and css, but I really want to learn everything related to development.
+
+These will be my first courses, if I pass such a tough selection, of course.
+I don't have any developer skills, and I only speak English with google translator, but I'm ready to absorb all the information and try with all my might to learn.
